@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615679628203",
+    "project_id": "imager-581cd",
+    "storage_bucket": "imager-581cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615679628203:android:aad698362d11671d4a78ee",
+        "android_client_info": {
+          "package_name": "com.example.imager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615679628203-ft6g07hehb5uo52ivt2su2rp0qpk8n17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcA_7XSBMjj3OTGOcnhjnLthJxmUWQ1j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615679628203-ft6g07hehb5uo52ivt2su2rp0qpk8n17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
