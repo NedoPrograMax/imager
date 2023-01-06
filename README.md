@@ -1,16 +1,31 @@
-# imager
 
-A new Flutter project.
+# The Imager
 
-## Getting Started
+The Imager helps you to store your favorite images on the server.
 
-This project is a starting point for a Flutter application.
+Technology used: Dart/Flutter, Firebase Firestore/Storage/Aunthefication, Bloc, Pexels API and more
 
-A few resources to get you started if this is your first Flutter project:
+Before you can start, you have to create an account or use an existing one.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/NedoPrograMax/imager/blob/master/login.gif" width="200">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can easily search for any image you like in Pexels and add it to yor list
+
+<img src="https://github.com/NedoPrograMax/imager/blob/master/search.gif" width="200">
+
+Also you can upload image from your device storage!
+
+<img src="https://github.com/NedoPrograMax/imager/blob/master/storage.gif" width="200">
+
+Now you can set titles to your images so it is easier to recognise them
+
+<img src="https://github.com/NedoPrograMax/imager/blob/master/edit.gif" width="200">
+
+And of course you can delete an image from server
+If the image is from Pexels, you can enjoy its HQ version
+
+<img src="https://github.com/NedoPrograMax/imager/blob/master/delete_overview.gif" width="200">
+
+So I'm hoping you're gonna love it.
+
+
