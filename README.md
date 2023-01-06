@@ -21,11 +21,12 @@ Now you can set titles to your images so it is easier to recognise them
 
 <img src="https://github.com/NedoPrograMax/imager/blob/master/edit.gif" width="200">
 
-And of course you can delete an image from server
+And of course you can delete an image from server.
+
 If the image is from Pexels, you can enjoy its HQ version
 
 <img src="https://github.com/NedoPrograMax/imager/blob/master/delete_overview.gif" width="200">
 
-So I'm hoping you're gonna love it.
+So I'm hoping you're gonna love it :)
 
 
